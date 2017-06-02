@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+
+	<script type="text/javascript">
+   
+   window.onload= function  () {
+   	  var obj= document.createElement("img");
+
+   	  document.body.appendChild(obj);
+   }
+	</script>
+</head>
+<body>
+	<div id="d" name="d"></div>
+
+</body>
+</html>
